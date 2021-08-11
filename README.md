@@ -1,6 +1,6 @@
 # Spryker Feature: ACL
 
-
+Allows to manage
 
 ## Installation
 
