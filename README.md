@@ -1,6 +1,6 @@
 # Spryker Feature: ACL
 
-Allows to manage
+Allows to manage access to HTTP endpoints and Persistance Entities.
 
 ## Installation
 
