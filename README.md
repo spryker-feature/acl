@@ -2,6 +2,8 @@
 
 Allows to manage access to HTTP endpoints and Persistance Entities.
 
+https://docs.spryker.com/docs/pbc/all/user-management/202307.0/user-and-rights-overview.html
+
 ## Installation
 
 ```
