@@ -8,12 +8,13 @@
     "require": {
         "php": ">=8.2",
         "spryker/acl": "^3.23.0",
+        "spryker/acl-data-import": "^0.1.0",
         "spryker/acl-entity": "^1.13.0",
         "spryker/acl-entity-data-import": "^0.2.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
